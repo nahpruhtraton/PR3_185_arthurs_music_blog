@@ -1,0 +1,109 @@
+body{
+    background-color: #f5aba8;
+}
+
+h1{
+    font-family: "Monaco", Courier, monospace
+}
+
+main{
+    background : #ffff;
+    font-family: "Monaco", Courier, monospace;
+    margin: 20px 20px;
+    padding: 10px;
+    overflow: auto;
+    resize: both;
+}
+
+main-body{
+    display: flex;
+    background : #ffff;
+    margin: 20px 20px;
+    padding: 10px;
+    overflow: auto;
+    resize: both;
+}
+
+
+main div{
+    padding: 15px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main > iframe{
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin: 5px;
+}
+
+nav{
+    padding: 0;
+    background-color: #292727;
+}
+
+nav a{
+    display: inline-block;
+    padding: 20px 10px;
+    color: white;
+    font-family: "Monaco", Courier, monospace;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: #534f4f
+}
+
+nav .current{
+    background-color: red;
+}
+
+form{
+    font-family: "Monaco", Courier, monospace
+}
+
+.img-box{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.img-box > img{
+    border: 1px solid salmon;
+    border-radius: 4px;
+    padding: 15px;
+    margin: 5px;
+    width: 150px;
+    max-width: 100%;
+    height: auto;
+}
+
+.img-box > img:hover{
+    box-shadow: 0 0 2px 1px #534f4f;
+}
+
+.tab-list{
+    display: flex;
+    font-family: "Monaco", Courier, monospace;
+    border: 1px solid black;
+    padding: 1px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    text-align: left;
+    
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td{
+    padding: 15px;
+}
