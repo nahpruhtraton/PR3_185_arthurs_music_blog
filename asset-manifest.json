@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/PR3_185_arthurs_music_blog/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/PR3_185_arthurs_music_blog/static/js/main.28e0604a.chunk.js",
-    "main.js.map": "/PR3_185_arthurs_music_blog/static/js/main.28e0604a.chunk.js.map",
-    "runtime-main.js": "/PR3_185_arthurs_music_blog/static/js/runtime-main.af0e25c4.js",
-    "runtime-main.js.map": "/PR3_185_arthurs_music_blog/static/js/runtime-main.af0e25c4.js.map",
-    "static/js/2.45120ff2.chunk.js": "/PR3_185_arthurs_music_blog/static/js/2.45120ff2.chunk.js",
-    "static/js/2.45120ff2.chunk.js.map": "/PR3_185_arthurs_music_blog/static/js/2.45120ff2.chunk.js.map",
-    "static/js/3.6fb36d10.chunk.js": "/PR3_185_arthurs_music_blog/static/js/3.6fb36d10.chunk.js",
-    "static/js/3.6fb36d10.chunk.js.map": "/PR3_185_arthurs_music_blog/static/js/3.6fb36d10.chunk.js.map",
+    "main.css": "/PR3_185_arthurs_music_blog/static/css/main.611bff15.chunk.css",
+    "main.js": "/PR3_185_arthurs_music_blog/static/js/main.b364bbff.chunk.js",
+    "main.js.map": "/PR3_185_arthurs_music_blog/static/js/main.b364bbff.chunk.js.map",
+    "runtime-main.js": "/PR3_185_arthurs_music_blog/static/js/runtime-main.a147927b.js",
+    "runtime-main.js.map": "/PR3_185_arthurs_music_blog/static/js/runtime-main.a147927b.js.map",
+    "static/js/2.19a3681a.chunk.js": "/PR3_185_arthurs_music_blog/static/js/2.19a3681a.chunk.js",
+    "static/js/2.19a3681a.chunk.js.map": "/PR3_185_arthurs_music_blog/static/js/2.19a3681a.chunk.js.map",
+    "static/js/3.af81b47e.chunk.js": "/PR3_185_arthurs_music_blog/static/js/3.af81b47e.chunk.js",
+    "static/js/3.af81b47e.chunk.js.map": "/PR3_185_arthurs_music_blog/static/js/3.af81b47e.chunk.js.map",
     "index.html": "/PR3_185_arthurs_music_blog/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/PR3_185_arthurs_music_blog/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.45120ff2.chunk.js.LICENSE.txt": "/PR3_185_arthurs_music_blog/static/js/2.45120ff2.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/PR3_185_arthurs_music_blog/static/media/logo.6ce24c58.svg"
+    "static/css/main.611bff15.chunk.css.map": "/PR3_185_arthurs_music_blog/static/css/main.611bff15.chunk.css.map",
+    "static/js/2.19a3681a.chunk.js.LICENSE.txt": "/PR3_185_arthurs_music_blog/static/js/2.19a3681a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.af0e25c4.js",
-    "static/js/2.45120ff2.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.28e0604a.chunk.js"
+    "static/js/runtime-main.a147927b.js",
+    "static/js/2.19a3681a.chunk.js",
+    "static/css/main.611bff15.chunk.css",
+    "static/js/main.b364bbff.chunk.js"
   ]
 }
