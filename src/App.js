@@ -1,5 +1,5 @@
 import './component/styles.css';
-import React from "react"
+import React, { useEffect } from "react"
 // import { Component } from 'react';
 import { useState} from 'react';
 import Body from './component/Body';
@@ -29,10 +29,15 @@ function App(){
     {
         id: 4, 
         title: 'Email'
+    },
+    {
+        id: 5, 
+        title: 'Zoom'
     }]
     const changetab = (id) =>{
         setactive(id)
     }
+
     return (
         <div className="App">
             <h1>Arthur's Music Blog</h1>

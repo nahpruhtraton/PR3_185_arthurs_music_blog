@@ -4,6 +4,7 @@ import ImagePage from './ImagePage.jsx';
 import VideoPage from './VideoPage.jsx';
 import TablePage from './TablePage.jsx';
 import EmailPage from './EmailPage.jsx';
+import ZoomPage from './ZoomPage.jsx';
 import './styles.css'
 
 class Body extends Component {
@@ -24,6 +25,9 @@ class Body extends Component {
             }
             else if (activetab == 4){
                 return <EmailPage/>
+            }
+            else if (activetab == 5){
+                return <ZoomPage/>
             }
         }
         return (displaycontent())
